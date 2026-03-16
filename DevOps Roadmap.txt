@@ -1,0 +1,13 @@
+Linux
+Networking
+Shell Scripting
+Python 
+Docker
+Jenkins
+Kubernetes
+Helm
+AWS
+Maven
+Jfrog / Nexus
+Tomcat/Nginx
+Azure Servies
