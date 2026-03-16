@@ -1,0 +1,5 @@
+Pro Tip: Using the ID
+You don't need the full Container ID. Usually, the first 3 or 4 characters are enough for Docker to identify which container you mean:
+docker exec -it a1b2 bash
+
+Would you like to see how to use docker exec to copy files into or out of a running container using the cp command?
